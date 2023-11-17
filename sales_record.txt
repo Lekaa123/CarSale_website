@@ -1,0 +1,3 @@
+Car Model: AMG GT, Quantity: 2, Price per Car: 400000, Total Price: 800000
+Car Model: AMG GT, Quantity: 3, Price per Car: 400000, Total Price: 1200000
+Car Model: GLE Coupe, Quantity: 3, Price per Car: 350000, Total Price: 1050000
